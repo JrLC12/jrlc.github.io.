@@ -1365,6 +1365,9 @@ p {
     margin-right: 50%;
     top: 0%;
   }
+ .number_alt span{
+    color:var(--white);
+ }
   .number_alt {
     position:relative;
     right:30%;
@@ -1406,6 +1409,7 @@ p {
     background-color: transparent;
     padding: 0px;
     z-index:1;
+	
   }
   .item1 {
     font-weight: 900;
@@ -1434,7 +1438,7 @@ p {
     margin-top:0%;
   }
   .item6{
-    
+    color: var(--white);
     font-size:14px;
     margin-top:0%;
   }
