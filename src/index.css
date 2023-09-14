@@ -1365,13 +1365,13 @@ p {
     margin-right: 50%;
     top: 0%;
   }
- .number_alt span{
-    color:var(--white);
- }
   .number_alt {
     position:relative;
     right:30%;
     top:0%;
+  }
+  .number_alt span {
+    color: var(--white);
   }
   .address_div_alt {
     position:relative;
@@ -1409,7 +1409,6 @@ p {
     background-color: transparent;
     padding: 0px;
     z-index:1;
-	
   }
   .item1 {
     font-weight: 900;
@@ -1418,6 +1417,7 @@ p {
     animation: none;
   }
   .item2{
+    color: #fff;
     font-weight: 900;
     font-size:18px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -1428,7 +1428,7 @@ p {
    margin-top:0%;
   }
   .item4{
-    
+    color: #fff;
     font-size:14px;
     margin-top:0%;
   }
@@ -1438,7 +1438,8 @@ p {
     margin-top:0%;
   }
   .item6{
-    color: var(--white);
+    
+  color: #fff;
     font-size:14px;
     margin-top:0%;
   }
@@ -1448,6 +1449,7 @@ p {
     margin-top:0%;
   }
   .item8{
+    color: #fff;
     font-size:14px;
     margin-top:0%;
   }
