@@ -341,6 +341,7 @@ body {
   grid-column: 1 / span 1;
 }
 .item6 {
+	text-decoration:none;
   color: #fff;
   font: 16px "poppins";
   grid-column: 2 / span 11;
